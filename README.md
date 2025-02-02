@@ -1,4 +1,4 @@
-# Turn Off the Lights Browser Extension
+# Turn on the Lights Browser Extension
 
 <img alt="Turn Off the Lights Browser Extension Logo" src="https://github.com/turnoffthelights/Turn-Off-the-Lights-Chrome-extension/blob/master/src/icons/icon48.png" align="left" style="padding: 0 10px 5px 0">
 
